@@ -1,8 +1,0 @@
-Nombre: Jonathan Rosas
-Edad: 20 años
-Programa Académico: Ingeniería de sistemas
-Semestre Actual: 5 semestre
-Algo extraño que te gusta hacer: Realizar problemas matemáticos de la nada
-Color favorito: Verde
-Tienes mascotas: NO
-Intereses en el desarrollo de software: Poder aprender y realizar algo y contribuir a la sociedad
