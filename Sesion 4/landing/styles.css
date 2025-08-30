@@ -21,17 +21,28 @@ body {
 
 nav {
     background: purple;
-    padding: 100px;
-    width: 200px;
+    padding: 200px;
+    text-align: center;
+
 }
 
 main {
     background: green;
-    padding: 200px;
+    padding: 350px;
     flex: 1;
+    text-align: center;
 }
 .footer {
     background: blue;
     padding: 20px;
     text-align: center;
+}
+
+input {
+    width: 300px;
+    height: 20px;
+    margin: 5px;
+}
+form{
+    border: 2px dashed black;
 }
