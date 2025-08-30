@@ -1,0 +1,53 @@
+/* Estilos por clase 
+.class {
+
+} */
+
+/* Estilos por id 
+#Id {} */
+
+/* Estilos por etiqueta
+etiquyeta {} */
+
+/* Estilos por atributo
+[atributo="valor"] {} */
+
+/* Estilos en linea - no deseado */
+
+/* MArgin separacion con otros contenedores de la pagina */
+/* padding separacion interna dentro del contenedor  */
+body {
+    font-family: sans-serif;
+    margin: 20px;
+    padding: 5px;
+}
+/* .container {
+    border: 2px dashed black;
+    padding: 10px;
+    margin-bottom: 30px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, rf));
+    gap: 10px;
+
+} */
+.container {
+    border: 2px dashed black;
+    padding: 10px;
+    margin-bottom: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: center;
+}
+/* .container .items {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+} */
+
+.items {
+    background: lightblue;
+    border: 1px solid blue;
+    padding: 5px;
+    margin: 10px;
+}
