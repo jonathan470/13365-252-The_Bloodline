@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+}
+.header {
+    background: orange;
+    padding: 20px;
+    text-align: center;
+
+}
+.content {
+    display: flex;
+    flex-direction: row;
+    flex-grow: 1;
+}
+
+nav {
+    background: purple;
+    padding: 100px;
+    width: 200px;
+}
+
+main {
+    background: green;
+    padding: 200px;
+    flex: 1;
+}
+.footer {
+    background: blue;
+    padding: 20px;
+    text-align: center;
+}
